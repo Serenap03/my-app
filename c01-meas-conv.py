@@ -37,15 +37,6 @@ main()
 print('The roots are x = 5, x = 2.')
 
 
-
-
-
-
-
-
-
-
-
 import math
 
 #Test input uses points (1,1) and (1,5)
